@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('My First Ap'),
+          title: Text('My First App'),
         ),
         body: Column(
           children: [
